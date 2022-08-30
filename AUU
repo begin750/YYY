@@ -35,6 +35,10 @@
 3、（电路设计）`直接在答题卡上作答`<br>
 
 4、（C语言程序综合素养）`直接在答题卡上作答`<br>
+char str[20] = "Hello Robocon!";
+char *str1=str;
+把定义的指针改为数组
+before:Hello Robocon!After:Hpllp Robocon!
 
 5、附加题（选做）<br>
 
